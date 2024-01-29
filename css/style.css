@@ -1,0 +1,16 @@
+.container_jumbo {
+    background-image: url(https://pics.clipartpng.com/Modern_Train_PNG_Clipart-422.png);
+    background-position: center;
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-color: rgb(70, 180, 107);
+    
+
+    height: 600px;
+    margin: 50px 0;
+
+    border-radius: 20px;
+}
+#train {
+    color: rgb(70, 180, 107);
+}
